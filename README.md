@@ -101,11 +101,11 @@ ii. Run the project by executing the following CLI command:
 $ mvn spring-boot:run
 ```
 
-### c.) Build and run the [UI (Client) app](src/client) <a name="build-run-client"></a>
+### c.) Build and run the [UI (Client) app](https://github.com/mariadb-developers/places-app-client) <a name="build-run-client"></a>
 
-Once the API project is running you can now communicate with the exposed endpoints directly (via HTTP requests) or with the application UI, which is contained with the [client](src/client) folder of this repo.
+Once the API project is running you can now communicate with the exposed endpoints directly (via HTTP requests) or with the application UI, which is contained with the `client` folder of this repo.
 
-To start the [client](src/client) application follow the instructions [here](https://github.com/mariadb-developers/places-app-client).
+To start the `client` application follow the instructions [here](https://github.com/mariadb-developers/places-app-client).
 
 ## JSON Data Models <a name="data-models"></a>
 
