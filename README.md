@@ -79,7 +79,7 @@ Configure the MariaDB connection with your connection details in [application.pr
 Example implementation:
 
 ```
-spring.datasource.url=jdbc:mariadb://localhost:3306/todo
+spring.datasource.url=jdbc:mariadb://localhost:3306/places
 spring.datasource.username=root
 spring.datasource.password=Password123!
 spring.datasource.driver-class-name=org.mariadb.jdbc.Driver
